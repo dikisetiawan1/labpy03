@@ -9,13 +9,13 @@ print('selesai')
 ```
 **penjelasan algoritma**
 
--[x]masukan nilai N =5
+-[x] masukan nilai N =5
 
--[x]gunakan for range ,untuk mengulang data 
+-[x] gunakan for range ,untuk mengulang data 
 
--[x]cetak data dan memasukan random.uniform kurang dari 0.5
+-[x] cetak data dan memasukan random.uniform kurang dari 0.5
 
--[x]jika selesai RUN/jalankan programnya.
+-[x] jika selesai RUN/jalankan programnya.
 
 **latihan2.py**
 ```python
@@ -28,13 +28,13 @@ while True:
 		max=a
 print("bilangan terbesar:",max)
 ```
--[x]masukan max=0
+-[x] masukan max=0
 
--[x]gunakan while True,untuk perulangan tak terbatas,setelah itu masukan bilangan.
+-[x] gunakan while True,untuk perulangan tak terbatas,setelah itu masukan bilangan.
 
--[x]if jika memasukan 0 akan berhenti
+-[x] if jika memasukan 0 akan berhenti
 
--[x]gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
+-[x] gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
 
 **program1.py**
 ```python
