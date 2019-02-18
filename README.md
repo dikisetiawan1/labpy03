@@ -1,5 +1,5 @@
 # labpy03
-**latihan1.py**
+# **latihan1.py**
 ```python
 import random
 n=str(input("masukan nilai N: "))
@@ -7,7 +7,7 @@ for x in range (1,6):
  print("data ke:",x,"=>",random.uniform(0.0,0.5))
 print('selesai')
 ```
-**penjelasan algoritma**
+# **penjelasan algoritma**
 
 - [x] masukan nilai N =5
 
@@ -18,7 +18,7 @@ print('selesai')
 - [x] jika selesai RUN/jalankan programnya.
 ![screenshot 26](https://user-images.githubusercontent.com/46512724/52929877-c1154700-3378-11e9-98c2-b70862ae0ed4.png)
 
-**latihan2.py**
+# **latihan2.py**
 ```python
 max=0
 while True:
@@ -36,9 +36,11 @@ print("bilangan terbesar:",max)
 - [x] if jika memasukan 0 akan berhenti
 
 - [x] gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
-![screenshot 26](https://user-images.githubusercontent.com/46512724/52929877-c1154700-3378-11e9-98c2-b70862ae0ed4.png)
 
-**program1.py**
+![screenshot 23](https://user-images.githubusercontent.com/46512724/52930177-08500780-337a-11e9-8658-ba76fe9c3aec.png)
+
+
+# **program1.py**
 ```python
 a = 100000000
 
