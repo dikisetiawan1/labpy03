@@ -9,7 +9,7 @@ print('selesai')
 ```
 **penjelasan algoritma**
 
--[x] masukan nilai N =5
+-[ x ] masukan nilai N =5
 
 -[x] gunakan for range ,untuk mengulang data 
 
