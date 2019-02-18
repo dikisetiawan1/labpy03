@@ -1,5 +1,5 @@
 # labpy03
-**latihan1.py
+**latihan1.py**
 ```python
 import random
 n=str(input("masukan nilai N: "))
@@ -7,14 +7,17 @@ for x in range (1,6):
  print("data ke:",x,"=>",random.uniform(0.0,0.5))
 print('selesai')
 ```
-**penjelasan algoritma
+**penjelasan algoritma**
 
 -[x]masukan nilai N =5
+
 -[x]gunakan for range ,untuk mengulang data 
+
 -[x]cetak data dan memasukan random.uniform kurang dari 0.5
+
 -[x]jika selesai RUN/jalankan programnya.
 
-**latihan2.py
+**latihan2.py**
 ```python
 max=0
 while True:
@@ -26,11 +29,14 @@ while True:
 print("bilangan terbesar:",max)
 ```
 -[x]masukan max=0
+
 -[x]gunakan while True,untuk perulangan tak terbatas,setelah itu masukan bilangan.
+
 -[x]if jika memasukan 0 akan berhenti
+
 -[x]gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
 
-**program1.py
+**program1.py**
 ```python
 a = 100000000
 
