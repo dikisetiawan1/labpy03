@@ -17,7 +17,7 @@ print('selesai')
 
 - [x] jika selesai RUN/jalankan programnya.
 
-# **output
+# **output**
 ![screenshot 26](https://user-images.githubusercontent.com/46512724/52929877-c1154700-3378-11e9-98c2-b70862ae0ed4.png)
 
 # **latihan2.py**
@@ -40,7 +40,7 @@ print("bilangan terbesar:",max)
 
 - [x] gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
 
-# **output
+# **output**
 
 ![screenshot 23](https://user-images.githubusercontent.com/46512724/52930177-08500780-337a-11e9-8658-ba76fe9c3aec.png)
 
@@ -65,6 +65,6 @@ for x in range(1,9):
 total = b+b+c+c+d+d+d+e
 print("\ntotal : ", total)     
 ```
-# **output
+# **output**
 ![screenshot 24](https://user-images.githubusercontent.com/46512724/52929895-d5594400-3378-11e9-8e0d-5cf9b69ef337.png)
 
