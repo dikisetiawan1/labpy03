@@ -16,6 +16,7 @@ print('selesai')
 - [x] cetak data dan memasukan random.uniform kurang dari 0.5
 
 - [x] jika selesai RUN/jalankan programnya.
+![screenshot 26](https://user-images.githubusercontent.com/46512724/52929877-c1154700-3378-11e9-98c2-b70862ae0ed4.png)
 
 **latihan2.py**
 ```python
@@ -35,6 +36,7 @@ print("bilangan terbesar:",max)
 - [x] if jika memasukan 0 akan berhenti
 
 - [x] gunakan if untuk mencari nilai max=bilangan terbesar,lalu run/jalankan programnya.
+![screenshot 26](https://user-images.githubusercontent.com/46512724/52929877-c1154700-3378-11e9-98c2-b70862ae0ed4.png)
 
 **program1.py**
 ```python
@@ -56,3 +58,5 @@ for x in range(1,9):
 total = b+b+c+c+d+d+d+e
 print("\ntotal : ", total)     
 ```
+![screenshot 24](https://user-images.githubusercontent.com/46512724/52929895-d5594400-3378-11e9-8e0d-5cf9b69ef337.png)
+
