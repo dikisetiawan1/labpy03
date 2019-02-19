@@ -9,11 +9,11 @@ print('selesai')
 ```
 # **penjelasan algoritma**
 
-- [x] masukan nilai N =5
+- [x] masukan nilai N 
 
-- [x] gunakan for range (untuk mengulang data dari 1-5)
+- [x] gunakan for range (untuk mengulang data dari 1-5) Perulangan for disebut counted loop (perulangan yang terhitung)
 
-- [x] cetak data dan memasukan (random.uniform kurang dari 0.5)
+- [x] cetak data dan memasukan (random.uniform kurang dari 0.5) mengacak nilai kurang dari data yang ditentukan
 
 - [x] jika selesai RUN/jalankan programnya.
 
@@ -32,11 +32,11 @@ while True:
 print("bilangan terbesar:",max)
 ```
 # **penjelasan algoritma**
-- [x] masukan max=0
+- [x] masukan nilai max =0
 
-- [x] gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
+- [x] gunakan while True.perulangan while disebut uncounted loop (perulangan yang tak terhitung)
 
-- [x] gunakan if (jika memasukan bilangan nol maka perulangan  akan berhenti).
+- [x] gunakan if (jika memasukan bilangan nol maka perulangan  akan berhenti). if dalam Python dijalankan untuk memeriksa apakah kondisi       ini adalah bernilai benar atau salah.
 
 - [x] selanjutnya,gunakan if (untuk mencari nilai max = bilangan terbesar,lalu run/jalankan programnya).
 
