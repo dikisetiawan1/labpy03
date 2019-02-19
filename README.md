@@ -68,7 +68,7 @@ print("\ntotal : ", total)
 # **penjelasan algoritma**
 - [x] masukkan nilai a
 
-- [x] gunakan for untuk perulangan dari 1 sampai 8
+- [x] gunakan for untuk perulangan dari 1 sampai 8.Perulangan for disebut counted loop (perulangan yang terhitung)
 
 - [x] lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2.
 cetak (x) dan (b)
